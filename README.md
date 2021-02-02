@@ -1,24 +1,40 @@
-# README
+# The Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Built models and migration for a Micro-Reddit web application using Ruby on Rails
 
-Things you may want to cover:
+## Technologie
 
-* Ruby version
+- Have Ruby programming language install on you computer. you can check it at <https://www.ruby-lang.org/en/downloads/>
+- Install Rails
+- Install SQLite3
+- Install Yarn
 
-* System dependencies
+## Authors
 
-* Configuration
+👤 **Denis Lafontant**
 
-* Database creation
+- GitHub: [@icebox827](https://github.com/icebox827)
+- Twitter: [@heracles2k5](https://twitter.com/@heracles2k5)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/denis-lafontant/)
 
-* Database initialization
+👤 **Mohammed Atef**
 
-* How to run the test suite
+- GitHub: [@oxenprogrammer](https://github.com/Mohamed-js)
+- Twitter: [@ox_emmy](https://twitter.com/Demovejetta)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-js/)
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## 🤝 Contributing
 
-* ...
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/icebox827/micro-reddit/issues/2).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+### Acknowledgements
+
+- Microverse
+- The Odin Project
