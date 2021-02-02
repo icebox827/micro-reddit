@@ -56,3 +56,5 @@ Layout/EndOfLine:
   Enabled: false
 Style/GlobalVars:
   Enabled: false
+Lint/ScriptPermission:
+  Enabled: false
