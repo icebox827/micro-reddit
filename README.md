@@ -2,7 +2,7 @@
 
 Built models and migration for a Micro-Reddit web application using Ruby on Rails
 
-## Technologie
+## Technologies
 
 - Have Ruby programming language install on you computer. you can check it at <https://www.ruby-lang.org/en/downloads/>
 - Install Rails
