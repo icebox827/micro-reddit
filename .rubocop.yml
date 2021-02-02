@@ -6,7 +6,7 @@ AllCops:
   DisplayCopNames: true
 
 Layout/LineLength:
-  Max: 170
+  Max: 250
 Metrics/MethodLength:
   Max: 35
 Metrics/AbcSize:
@@ -16,6 +16,10 @@ Metrics/ClassLength:
 Metrics/BlockLength:
   ExcludedMethods: ['describe']
   Max: 30
+Metrics/CyclomaticComplexity:
+  Max: 15
+Metrics/PerceivedComplexity:
+  Max: 15
 
 
 Style/Documentation:
@@ -47,4 +51,8 @@ Style/HashEachMethods:
 Style/HashTransformKeys:
   Enabled: false
 Style/HashTransformValues:
+  Enabled: false
+Layout/EndOfLine:
+  Enabled: false
+Style/GlobalVars:
   Enabled: false
