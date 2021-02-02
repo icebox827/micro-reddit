@@ -19,8 +19,8 @@ Built models and migration for a Micro-Reddit web application using Ruby on Rail
 
 👤 **Mohammed Atef**
 
-- GitHub: [@oxenprogrammer](https://github.com/Mohamed-js)
-- Twitter: [@ox_emmy](https://twitter.com/Demovejetta)
+- GitHub: [@Mohamed-Atef](https://github.com/Mohamed-js)
+- Twitter: [@Mohammed_Atef](https://twitter.com/Demovejetta)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-js/)
 
 
