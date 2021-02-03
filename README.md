@@ -2,6 +2,12 @@
 
 Built models and migration for a Micro-Reddit web application using Ruby on Rails.
 
+## About
+
+Built models and migration for a Micro-Reddit web application using Ruby on Rails
+
+![app_screenshot.PNG](https://github.com/icebox827/micro-reddit/blob/feature_app/APP_SCREENSHOT.png?raw=true)
+
 In this project we:
 - Made a model for users.
 - Made a model for posts.
@@ -15,12 +21,12 @@ In this project we:
 - Write "rails console".
 - Start adding users, posts and comments.
 
+
 ## Technologies
 
-- Have Ruby programming language install on you computer. you can check it at <https://www.ruby-lang.org/en/downloads/>
-- Install Rails
-- Install SQLite3
-- Install Yarn
+- Ruby
+- Rails
+- SQLite3
 
 ## Authors
 
