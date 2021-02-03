@@ -1,5 +1,7 @@
 # The Micro-Reddit
 
+Built models and migration for a Micro-Reddit web application using Ruby on Rails.
+
 ## About
 
 This project is a recreation of the Reddit application, but on the model side.
@@ -8,32 +10,26 @@ It focuses on creating Models with validations and associations on rails using A
 
 ![app_screenshot.PNG](https://github.com/icebox827/micro-reddit/blob/feature_app/APP_SCREENSHOT.png?raw=true)
 
-## Built with
+In this project we:
+- Made a model for users.
+- Made a model for posts.
+- Made a model for comments.
+- Made validations for their inputs.
+- Made associations between the user, the post and the comment model.
+
+## Usage
+
+- Clone the repo "https://github.com/icebox827/micro-reddit.git".
+- Write "rails console".
+- Start adding users, posts and comments.
+
+
+## Technologies
 
 - Ruby
 - Rails
 - SQLite3
 - VSCode
-
-## Usage
-
-- If you want to test it you need to have Ruby and Rails installed in your computer and download or clone this repo as follows:
-
-    `$ git clone "https://github.com/euqueme/micro-reddit.git"`
-
-after that you need to open a terminal inside the repo and run the bundler
-
-    `$ bundle install --without production`
-
-then, run rails db:migrate. This creates the database with the corresponding tables, columns and associations.
-
-    `$ rails db:migrate`
-
-and finally, you can test it in the console using the sandbox with the following command
-
-    `$ rails console --sandbox`
-
-type User, Post or Comment to see the structure of each model
 
 ## Authors
 
