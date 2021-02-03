@@ -1,6 +1,10 @@
 # The Micro-Reddit
 
+## About
+
 Built models and migration for a Micro-Reddit web application using Ruby on Rails
+
+![app_screenshot.PNG](https://github.com/icebox827/Newsweek-copy/blob/homepage/app-screenshot.png?raw=true)
 
 ## Technologies
 
