@@ -1,6 +1,19 @@
 # The Micro-Reddit
 
-Built models and migration for a Micro-Reddit web application using Ruby on Rails
+Built models and migration for a Micro-Reddit web application using Ruby on Rails.
+
+In this project we:
+- Made a model for users.
+- Made a model for posts.
+- Made a model for comments.
+- Made validations for their inputs.
+- Made associations between the user, the post and the comment model.
+
+## Usage
+
+- Clone the repo "https://github.com/icebox827/micro-reddit.git".
+- Write "rails console".
+- Start adding users, posts and comments.
 
 ## Technologies
 
